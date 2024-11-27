@@ -9,14 +9,16 @@ excerpt_separator: <!--more-->
 
 세례를 침례로 표기한 안드로이드 성경 애플리케이션입니다.
 
+<!--more-->
+
 ---
 
 ## 🔗 Github
 
-- **Github Repository:**  
+- **Github Repository**  
   [![Github](https://img.shields.io/badge/Github-Repository-black?logo=github)](https://github.com/pantokr/android-kotlin-baptistian-bible)
 
-- **Git Clone:**  
+- **Git Clone**  
   ```bash
   git clone https://github.com/pantokr/android-kotlin-baptistian-bible.git
   ```
@@ -45,7 +47,7 @@ excerpt_separator: <!--more-->
 - 찬송가 목록을 새찬송가, 통일찬송가로 검색할 수 있습니다.
 - 악보를 확인할 수 있습니다. 
 
-### 5. 사전 
+### 6. 사전 
 - NAVER 지식백과 API를 이용해 성경 관련 용어를 검색할 수 있습니다.
 
 ---
@@ -53,20 +55,25 @@ excerpt_separator: <!--more-->
 ## 📸 스크린샷
 
 **1. 메인 화면**
+
 <img src="/assets/img/posts/2024-11-27-android-kotlin-baptistian-bible/main.jpg" alt="메인 화면" style="width:50%;">
   
+<br>
 
 **2. 검색 화면**
+
 <img src="/assets/img/posts/2024-11-27-android-kotlin-baptistian-bible/search.jpg" alt="검색 화면" style="width:50%;">
 
 <br>
 
 **3. 대역 화면**
+
 <img src="/assets/img/posts/2024-11-27-android-kotlin-baptistian-bible/translated.jpg" alt="대역 화면" style="width:50%;">
 
 <br>
 
 **4. 찬송가 화면**
+
 <img src="/assets/img/posts/2024-11-27-android-kotlin-baptistian-bible/hymn.jpg" alt="찬송가 화면" style="width:50%;">
 
 ---
@@ -84,6 +91,6 @@ excerpt_separator: <!--more-->
 
 ## 📋 기타
 
-- **네이버 지식백과 API 사용**
-- **Python을 이용해 대한성서공회 웹사이트에서 성경 데이터 크롤링**
-- **새찬송가 버전 찬송가 이미지 출처: [nybethel.org](https://nybethel.org/240/11)**
+- 네이버 지식백과 API 사용
+- Python을 이용해 대한성서공회 웹사이트에서 성경 데이터 크롤링
+- 새찬송가 버전 찬송가 이미지 출처: [nybethel.org](https://nybethel.org/240/11)
