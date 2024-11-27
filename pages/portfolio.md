@@ -1,4 +1,4 @@
---- 
+<!-- --- 
 layout: page
 title : Portfolio 
 permalink: /portfolio/
@@ -8,4 +8,4 @@ position: 4
 tags: [Page]
 ---
 
-{% include portfolio.html %}
+{% include portfolio.html %} -->
