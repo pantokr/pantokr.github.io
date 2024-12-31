@@ -5,7 +5,7 @@ tags: [Android, Java, TensorFlow]
 excerpt_separator: <!--more-->
 ---
 
-# 규도쿠
+# EfficientDet을 활용한 객체 인식 
 
 <!--more-->
 
