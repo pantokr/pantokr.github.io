@@ -1,6 +1,6 @@
 ---
 layout: post
-title: flutter-baptistian-bible
+title: flutter_baptistian_bible
 tags: [Android, IOS, Flutter, Dart]
 excerpt_separator: <!--more-->
 ---
@@ -51,21 +51,21 @@ excerpt_separator: <!--more-->
 
 **1. 메인 화면**
 
-<img src="/assets/img/posts/2024-04-12-flutter-baptistian-bible/main.png" alt="메인 화면" style="width:50%;">
+<img src="/assets/img/posts/2024-04-12-flutter_baptistian_bible/main.png" alt="메인 화면" style="width:50%;">
   
 <br>
 
 **2. 검색 화면**
 
-<img src="/assets/img/posts/2024-04-12-flutter-baptistian-bible/history.png" alt="기록 화면" style="width:50%;">
+<img src="/assets/img/posts/2024-04-12-flutter_baptistian_bible/history.png" alt="기록 화면" style="width:50%;">
 
-<img src="/assets/img/posts/2024-04-12-flutter-baptistian-bible/search.png" alt="검색 화면" style="width:50%;">
+<img src="/assets/img/posts/2024-04-12-flutter_baptistian_bible/search.png" alt="검색 화면" style="width:50%;">
 
 <br>
 
 **3. 선택 화면**
 
-<img src="/assets/img/posts/2024-04-12-flutter-baptistian-bible/select.png" alt="선택 화면" style="width:50%;">
+<img src="/assets/img/posts/2024-04-12-flutter_baptistian_bible/select.png" alt="선택 화면" style="width:50%;">
 
 ---
 
