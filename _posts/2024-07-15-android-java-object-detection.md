@@ -45,8 +45,8 @@ EfficientDet.tflite을 이용해 Android에서 객체 인식을 하는 기본 �
 
 ## 🛠️ 개발환경
 
-- **IDE**: Android Studio
-- **언어**: Java
+- **기술 스택**: Android, Java
+- **빌드 도구**: Gradle (Groovy)  
 - **주요 라이브러리**: CameraX, TensorFlow
 - **지원 OS**: Android 11 (API 레벨 30) 이상
 

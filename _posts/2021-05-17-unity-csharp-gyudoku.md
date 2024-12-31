@@ -71,8 +71,7 @@ excerpt_separator: <!--more-->
 
 ## 🛠️ 개발환경
 
-- **IDE**: Unity3D, Visual Studio 
-- **언어**: CSharp 
+- **기술 스택**: Unity3D, CSharp
 - **지원 OS**: Windows
 
 ---

@@ -80,11 +80,9 @@ excerpt_separator: <!--more-->
 
 ## 🛠️ 개발환경
 
-- **IDE**: Android Studio 
-- **언어**: Kotlin  
+- **기술 스택**: Android, Kotlin  
 - **빌드 도구**: Gradle (Kotlin DSL)  
 - **주요 라이브러리**: Jetpack Compose, Room  
-- **버전 관리**: Git  
 - **지원 OS**: Android 13 (API 레벨 33) 이상
 
 ---
