@@ -1,6 +1,6 @@
 ---
 layout: post
-title: unity-csharp-gyudoku
+title: unity3d-csharp-gyudoku
 tags: [Unity, CSharp]
 excerpt_separator: <!--more-->
 ---
@@ -16,11 +16,11 @@ excerpt_separator: <!--more-->
 ## 🔗 Github
 
 - **Github Repository**  
-  [![Github](https://img.shields.io/badge/Github-Repository-black?logo=github)](https://github.com/pantokr/unity-csharp-gyudoku)
+  [![Github](https://img.shields.io/badge/Github-Repository-black?logo=github)](https://github.com/pantokr/unity3d-csharp-gyudoku)
 
 - **Git Clone**  
   ```bash
-  git clone https://github.com/pantokr/unity-csharp-gyudoku.git
+  git clone https://github.com/pantokr/unity3d-csharp-gyudoku.git
   ```
 
 ---
