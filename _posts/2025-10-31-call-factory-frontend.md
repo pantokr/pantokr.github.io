@@ -5,11 +5,11 @@ tags: [React, Vite, TypeScript, Docker]
 excerpt_separator: <!--more-->
 ---
 
-# Call Factory 프론트엔드
+# Call Factory Frontend
 
 <!--more-->
 
-Call Factory를 적용한 프론트엔드입니다.
+`Call Factory` 프로젝트의 프론트엔드입니다.
 
 ---
 
