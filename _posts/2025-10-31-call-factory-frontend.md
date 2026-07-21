@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: call-factory-frontend
 tags: [React, Vite, TypeScript, Docker]
 excerpt_separator: <!--more-->
